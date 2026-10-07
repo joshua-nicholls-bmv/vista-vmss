@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+supabase/.temp/
+supabase/.branches/
+
+artifacts/
+work/
+*.zip

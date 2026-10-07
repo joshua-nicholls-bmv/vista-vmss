@@ -1,0 +1,132 @@
+{
+  "source": "https://ourairports.com/data/",
+  "retrieved": "2026-10-06",
+  "airfields": [
+    {
+      "icao": "EGXC",
+      "name": "RAF Coningsby",
+      "latitude": 53.092999,
+      "longitude": -0.166014
+    },
+    {
+      "icao": "EGQS",
+      "name": "RAF Lossiemouth",
+      "latitude": 57.7052,
+      "longitude": -3.33917
+    },
+    {
+      "icao": "EGVN",
+      "name": "RAF Brize Norton",
+      "latitude": 51.75,
+      "longitude": -1.58362
+    },
+    {
+      "icao": "EGYM",
+      "name": "RAF Marham",
+      "latitude": 52.648395,
+      "longitude": 0.550692
+    },
+    {
+      "icao": "EGOS",
+      "name": "RAF Shawbury",
+      "latitude": 52.798199,
+      "longitude": -2.66804
+    },
+    {
+      "icao": "EGOV",
+      "name": "Anglesey Airport",
+      "latitude": 53.2481,
+      "longitude": -4.53534
+    },
+    {
+      "icao": "EGEC",
+      "name": "Campbeltown Airport",
+      "latitude": 55.437199,
+      "longitude": -5.68639
+    },
+    {
+      "icao": "EGHQ",
+      "name": "Cornwall Airport Newquay",
+      "latitude": 50.440601,
+      "longitude": -4.99541
+    },
+    {
+      "icao": "EGQL",
+      "name": "Leuchars Station Airfield",
+      "latitude": 56.37398,
+      "longitude": -2.868862
+    },
+    {
+      "icao": "EGXE",
+      "name": "RAF Leeming",
+      "latitude": 54.297191,
+      "longitude": -1.538944
+    },
+    {
+      "icao": "EGUW",
+      "name": "Wattisham Airfield",
+      "latitude": 52.127451,
+      "longitude": 0.956189
+    },
+    {
+      "icao": "EGVO",
+      "name": "RAF Odiham",
+      "latitude": 51.2341,
+      "longitude": -0.942825
+    },
+    {
+      "icao": "EGUB",
+      "name": "RAF Benson",
+      "latitude": 51.614366,
+      "longitude": -1.095991
+    },
+    {
+      "icao": "EGXW",
+      "name": "RAF Waddington",
+      "latitude": 53.166199,
+      "longitude": -0.523811
+    },
+    {
+      "icao": "EGWC",
+      "name": "RAF Cosford",
+      "latitude": 52.640524,
+      "longitude": -2.305326
+    },
+    {
+      "icao": "EGPL",
+      "name": "Benbecula Airport",
+      "latitude": 57.481098,
+      "longitude": -7.36278
+    },
+    {
+      "icao": "LCRA",
+      "name": "RAF Akrotiri",
+      "latitude": 34.590401,
+      "longitude": 32.9879
+    },
+    {
+      "icao": "ETAR",
+      "name": "Ramstein Air Base",
+      "latitude": 49.436901,
+      "longitude": 7.60028
+    },
+    {
+      "icao": "ENGM",
+      "name": "Oslo-Gardermoen International Airport",
+      "latitude": 60.193901,
+      "longitude": 11.1004
+    },
+    {
+      "icao": "LXGB",
+      "name": "Gibraltar Airport",
+      "latitude": 36.151679,
+      "longitude": -5.34978
+    },
+    {
+      "icao": "EPRZ",
+      "name": "Rzesz\u00f3w-Jasionka Airport",
+      "latitude": 50.109791,
+      "longitude": 22.024155
+    }
+  ]
+}

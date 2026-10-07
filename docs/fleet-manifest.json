@@ -1,0 +1,661 @@
+{
+  "source_pdf": "https://assets.publishing.service.gov.uk/media/5dce8cc5e5274a076734209a/Aircraft-Tail-Numbers-Annex-10288.pdf",
+  "source_pdf_page": 6,
+  "aircraft_types": [
+    {
+      "code": "ATLAS",
+      "name": "Atlas"
+    },
+    {
+      "code": "TYPHOON-FGR4",
+      "name": "Typhoon FGR4"
+    },
+    {
+      "code": "TYPHOON-T3",
+      "name": "Typhoon T3"
+    }
+  ],
+  "units": [
+    {
+      "code": "AMF",
+      "name": "Air Mobility Force",
+      "base_icao": "EGVN",
+      "aircraft_type_code": "ATLAS",
+      "role": "air_mobility"
+    },
+    {
+      "code": "3-F",
+      "name": "No. 3 (Fighter) Squadron",
+      "base_icao": "EGXC",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "fighter"
+    },
+    {
+      "code": "XI-F",
+      "name": "No. XI (Fighter) Squadron",
+      "base_icao": "EGXC",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "fighter"
+    },
+    {
+      "code": "12",
+      "name": "No. 12 Squadron",
+      "base_icao": "EGXC",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "fighter"
+    },
+    {
+      "code": "29",
+      "name": "No. 29 Squadron",
+      "base_icao": "EGXC",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "training"
+    },
+    {
+      "code": "41-TES",
+      "name": "No. XLI Test and Evaluation Squadron (41 TES)",
+      "base_icao": "EGXC",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "test_and_evaluation"
+    },
+    {
+      "code": "1-F",
+      "name": "No. 1 (Fighter) Squadron",
+      "base_icao": "EGQS",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "fighter"
+    },
+    {
+      "code": "II-AC",
+      "name": "No. II (Army Cooperation) Squadron",
+      "base_icao": "EGQS",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "army_cooperation"
+    },
+    {
+      "code": "6",
+      "name": "No. 6 Squadron",
+      "base_icao": "EGQS",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "fighter"
+    },
+    {
+      "code": "IX-B",
+      "name": "No. IX (Bomber) Squadron",
+      "base_icao": "EGQS",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "role": "aggressor_combat"
+    }
+  ],
+  "aircraft": [
+    {
+      "serial": "ZM400",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM401",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM402",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM403",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM404",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM405",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM406",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM407",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM408",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM409",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM410",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "Sustainment Fleet",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM411",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM412",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM413",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM414",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM415",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM416",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM417",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM418",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZM419",
+      "aircraft_type_code": "ATLAS",
+      "unit_code": "AMF",
+      "base_icao": "EGVN",
+      "source": "atlas_pdf",
+      "source_unit": "24/70 Sqn Pool",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK345",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "3-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 3 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK311",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "3-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 3 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK354",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "3-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 3 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK364",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "3-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 3 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZJ921",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "3-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 3 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK301",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "XI-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XI (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK308",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "XI-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XI (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK318",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "XI-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XI (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK321",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "XI-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XI (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK332",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "XI-F",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XI (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK363",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "12",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 12 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK335",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "12",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 12 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK361",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "12",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 12 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK368",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "12",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 12 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK371",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "12",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 12 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZJ913",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "29",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 29 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK343",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "29",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 29 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK353",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "29",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 29 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK381",
+      "aircraft_type_code": "TYPHOON-T3",
+      "unit_code": "29",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 29 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZJ806",
+      "aircraft_type_code": "TYPHOON-T3",
+      "unit_code": "29",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. 29 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK315",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "41-TES",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XLI Test and Evaluation Squadron (41 TES)",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK379",
+      "aircraft_type_code": "TYPHOON-T3",
+      "unit_code": "41-TES",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XLI Test and Evaluation Squadron (41 TES)",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK303",
+      "aircraft_type_code": "TYPHOON-T3",
+      "unit_code": "41-TES",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XLI Test and Evaluation Squadron (41 TES)",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK360",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "41-TES",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XLI Test and Evaluation Squadron (41 TES)",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK376",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "41-TES",
+      "base_icao": "EGXC",
+      "source": "user_roster",
+      "source_unit": "No. XLI Test and Evaluation Squadron (41 TES)",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK341",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "1-F",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 1 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK348",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "1-F",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 1 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK314",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "1-F",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 1 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK372",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "1-F",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 1 (Fighter) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK316",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "II-AC",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. II (Army Cooperation) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK320",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "II-AC",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. II (Army Cooperation) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK329",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "II-AC",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. II (Army Cooperation) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK333",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "II-AC",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. II (Army Cooperation) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK366",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "6",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 6 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK346",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "6",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 6 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK306",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "6",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 6 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK313",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "6",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 6 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZK324",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "6",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. 6 Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZJ924",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "IX-B",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. IX (Bomber) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZJ935",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "IX-B",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. IX (Bomber) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZJ914",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "IX-B",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. IX (Bomber) Squadron",
+      "tail_code": null
+    },
+    {
+      "serial": "ZJ947",
+      "aircraft_type_code": "TYPHOON-FGR4",
+      "unit_code": "IX-B",
+      "base_icao": "EGQS",
+      "source": "user_roster",
+      "source_unit": "No. IX (Bomber) Squadron",
+      "tail_code": null
+    }
+  ],
+  "duplicate_resolution": {
+    "ZK335": "12",
+    "ZK353": "29",
+    "ZJ921": "3-F"
+  },
+  "notes": [
+    "Only Atlas tail numbers were imported from the PDF; Typhoon data comes from the user.",
+    "Atlas tail codes are N/A in the PDF; no aircraft callsigns were supplied.",
+    "Air Mobility Force is a user-requested VISTA grouping stored in the squadrons table.",
+    "Fleet status and initial location are virtual defaults, not current real-world availability."
+  ]
+}
